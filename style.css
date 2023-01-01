@@ -54,6 +54,7 @@ body {
 }
 
 .container h1 {
+    margin-top: 1.25em;
     font-size: 1.125em;
     font-weight: 700;
     color: var(--Very-dark-desaturated-blue);
@@ -74,7 +75,6 @@ body {
 }
 
 .Followers {
-    border-top: .3px solid var(--Dark-gray);
     padding-top: 0.9375em;
     display: flex;
     justify-content: space-around;
